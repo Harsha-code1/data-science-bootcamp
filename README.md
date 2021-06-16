@@ -1,3 +1,3 @@
 # data-science-bootcamp
 
-<p> practice material day1 </p>
+<p> practice day1 </p>
