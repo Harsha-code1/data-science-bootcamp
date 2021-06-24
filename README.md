@@ -1,3 +1,3 @@
 # data-science-bootcamp
 
-<p> practice day1 </p>
+<p> Data science bootcamp assignments. </p>
